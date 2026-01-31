@@ -13,3 +13,8 @@ def generate_qr_code():
 if __name__ == "__main__":
     generate_qr_code()
 
+
+
+generated qrcode:
+
+
